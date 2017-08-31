@@ -50,17 +50,17 @@ The original cube face image was created with a vector graphics software Inkscap
 
 ### Equirectangular videos (30 fps, 1 min):
 
-[Equirectangular,  1024×512 (MP4, 1.6MB)](/set1/equi/Orion360_test_video_1024x512.jpg)
+[Equirectangular,  1024×512 (MP4, 1.6MB)](/set1/equi/Orion360_test_video_1024x512.mp4)
 
-[Equirectangular,  1280×640 (MP4, 2.4MB)](/set1/equi/Orion360_test_video_1280x640.jpg)
+[Equirectangular,  1280×640 (MP4, 2.4MB)](/set1/equi/Orion360_test_video_1280x640.mp4)
 
-[Equirectangular,  1920×960 (MP4, 5.2MB)](/set1/equi/Orion360_test_video_1920x960.jpg)
+[Equirectangular,  1920×960 (MP4, 5.2MB)](/set1/equi/Orion360_test_video_1920x960.mp4)
 
-[Equirectangular,  2048×1024 (MP4, 5.8MB)](/set1/equi/Orion360_test_video_2048x1024.jpg)
+[Equirectangular,  2048×1024 (MP4, 5.8MB)](/set1/equi/Orion360_test_video_2048x1024.mp4)
 
-[Equirectangular,  3840×1920 (MP4, 17.2MB)](/set1/equi/Orion360_test_video_3840x1920.jpg)
+[Equirectangular,  3840×1920 (MP4, 17.2MB)](/set1/equi/Orion360_test_video_3840x1920.mp4)
 
-[Equirectangular,  4096×2048 (MP4, 19.1MB)](/set1/equi/Orion360_test_video_4096x2048.jpg)
+[Equirectangular,  4096×2048 (MP4, 19.1MB)](/set1/equi/Orion360_test_video_4096x2048.mp4)
 
 ## License
 
