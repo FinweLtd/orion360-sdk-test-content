@@ -65,4 +65,5 @@ The original cube face image was created with a vector graphics software Inkscap
 ## License
 
 ![alt tag](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)
+
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
